@@ -4,13 +4,13 @@
 
 "Placement"と"BI,IV,Offer"の二種類があります。
 
-###Placements
+### Placements
 ![Placements](https://github.com/TS-0910/Tableau/blob/main/Placements/Placements%20Stats_26.1.2021.png)
 
-###BI,IV,Offer
-![BI,IV,Offer](https://github.com/TS-0910/Tableau/blob/main/BI%2C%20IV%2C%20Offer_29.1.2021.png)
+### BI,IV,Offer
+![BI,IV,Offer](https://github.com/TS-0910/Tableau/blob/main/BI%2CIV%2COffer/BI%2C%20IV%2C%20Offer_29.1.2021.png)
 
-##①用語の解説
+## ①用語の解説
 <u>"Placement Stats"の用語</u>
 Placement…企業に候補者を紹介→内定→実際に転職という一連の流れのサポート
 Internal IT…いわゆる事業会社と言われる企業の社内情報システム部
@@ -26,7 +26,7 @@ SL…"Short List"。ポジションに対して、何人の候補者に声をか
 BI…"Buy In"。そのポジションに対して、申し込み(= Buy In)のあった数
 Client…求人を出している企業。そのポジションに対しての候補者のソーシングを依頼している企業
 
-##②人材紹介・担当分野の流れについて
+## ②人材紹介・担当分野の流れについて
 1.Clientから求人に合う候補者を探してほしいという依頼が入る
 2.自社データベースやその他媒体で候補者をソーシングする
 3.候補者から申し込み(Buy In)をもらう
@@ -35,7 +35,7 @@ Client…求人を出している企業。そのポジションに対しての�
 
 自分は主に外資系企業のInternal ITポジションを担当。
 
-##③ダッシュボードの解説
+## ③ダッシュボードの解説
 <u>1."Placements Stats"</u>
 ●全体の解説
 これまで自分がPlacementしてきた候補者のデータを集計
