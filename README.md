@@ -72,8 +72,8 @@ ___Age and Salary___
 <img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Age%20and%20Salary.png" width="640px">
   
 #### まとめ  
--バイリンガルかつInternal IT出身の候補者を、自分もしくは自分のチームメンバーがソースする事がPlacementにつながりやすい。  
--クライアント側は日本人候補者もしくはInternal IT出身の方が年齢に関してオープン  
+- バイリンガルかつInternal IT出身の候補者を、自分もしくは自分のチームメンバーがソースする事がPlacementにつながりやすい。  
+- クライアント側は日本人候補者もしくはInternal IT出身の方が年齢に関してオープン  
   
 ### 2."BI, IV, Offer"  
 #### 全体の解説  
