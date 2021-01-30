@@ -11,7 +11,7 @@
 ![BI,IV,Offer](https://github.com/TS-0910/Tableau/blob/main/BI%2CIV%2COffer/BI%2C%20IV%2C%20Offer_29.1.2021.png)
 
 ## ①用語の解説
-<u>"Placement Stats"の用語</u>  
+---"Placement Stats"の用語---  
 Placement…企業に候補者を紹介→内定→実際に転職という一連の流れのサポート  
 Internal IT…いわゆる事業会社と言われる企業の社内情報システム部  
 Consulting…BIg4等で知られるコンサル企業  
@@ -25,7 +25,7 @@ Offer…Job Offer = 内定
 SL…"Short List"。ポジションに対して、何人の候補者に声をかけたか(=何人をShort Listに入れたか)  
 BI…"Buy In"。そのポジションに対して、申し込み(= Buy In)のあった数  
 Client…求人を出している企業。そのポジションに対しての候補者のソーシングを依頼している企業  
-  
+
 ## ②人材紹介・担当分野の流れについて
 1.Clientから求人に合う候補者を探してほしいという依頼が入る  
 2.自社データベースやその他媒体で候補者をソーシングする  
