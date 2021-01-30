@@ -43,7 +43,7 @@
   
 ##### 個々の考察  
 - Sourced By  
-<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Sourced%20By.png" width="500px">
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Sourced%20By.png" width="640px">
 自分かチームメンバーがソースした候補者が約87%を占める  
   
 ・Background  
