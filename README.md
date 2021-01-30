@@ -52,32 +52,34 @@ Internal IT出身の候補者が過半数を占め、その後Vendor、Consultan
   
     
 ___Nationality___  
-<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Nationality.png" width="640px">
 過半数は外国人候補者  
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Nationality.png" width="640px">
   
 ___Billingual___  
-<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Bilingual.png" width="640px">
 90%は日本語・英語のバイリンガル候補者  
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Bilingual.png" width="640px">
   
 ___Average age by background___  
-<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Average%20age%20by%20background.png" width="640px">
 Internal IT出身の方が年齢が高くても内定が出やすい。逆にVendor出身の場合は年齢が若めの人が好まれる。  
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Average%20age%20by%20background.png" width="640px">
   
 ___Average age by nationality___    
-<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Agerage%20age%20by%20nationality.png" width="640px">
 日本人の方が年齢が高くても内定が出やすい。逆に外国人の場合は年齢が若めの人が好まれる。  
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Agerage%20age%20by%20nationality.png" width="640px">
   
 ___Age and Salary___    
-<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Age%20and%20Salary.png" width="640px">
 赤線は傾向線。個人差はあるものの年齢と年収はおおむね相関関係にある事が分かる。  
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Age%20and%20Salary.png" width="640px">
   
-●まとめ  
-・バイリンガルかつInternal IT出身の候補者を、自分もしくは自分のチームメンバーがソースする事がPlacementにつながりやすい。  
-・クライアント側は日本人候補者もしくはInternal IT出身の方が年齢に関してオープン  
+#### まとめ  
+-バイリンガルかつInternal IT出身の候補者を、自分もしくは自分のチームメンバーがソースする事がPlacementにつながりやすい。  
+-クライアント側は日本人候補者もしくはInternal IT出身の方が年齢に関してオープン  
   
-<u>2."BI, IV, Offer"</u>  
-●全体の解説  
+### 2."BI, IV, Offer"  
+#### 全体の解説  
 それぞれのポジション毎のBI,IV,Offerの関連性やClient毎の集計  
+![BI,IV,Offer](https://github.com/TS-0910/Tableau/blob/main/BI%2CIV%2COffer/BI%2C%20IV%2C%20Offer_29.1.2021.png)
+  
   
 #### 個々のデータ  
 ___IR and IV - Offer %___  
@@ -85,42 +87,50 @@ ___IR and IV - Offer %___
 IRが多いほどIV - Offerの確率は下がる傾向にある。  
 これは、候補者が多いほど限られた採用枠へのOffer確率が下がるためと考えられる。  
 なので、一つのポジションに候補者を紹介し過ぎるのも良くないと言える。  
+<img src="https://github.com/TS-0910/Tableau/blob/main/BI%2CIV%2COffer/IR%20and%20IV%20-%20Offer%20%25.png" width="640px">
   
 ___SL and SL - BI %___  
 赤線は傾向線。  
 SLが増える程BIがもらえる率が下がる傾向にある。  
-  
+<img src="https://github.com/TS-0910/Tableau/blob/main/BI%2CIV%2COffer/SL%20and%20SL%20-%20BI%20%25.png" width="640px">
+    
 SLが多いというのには下記のような理由が考えられる  
-・対象となる候補者が多い職種  
-・ポジションの要件が明確で無く曖昧  
-・長期間オープンになっている(中々いい候補者が見つからない/採用側のハードルが高くて採用まで至らない/採用枠が多い)  
+- 対象となる候補者が多い職種  
+- ポジションの要件が明確で無く曖昧  
+- 長期間オープンになっている(中々いい候補者が見つからない/採用側のハードルが高くて採用まで至らない/採用枠が多い)  
   
 実際はこれらのコンビネーションである事もある(Ex. 要件が曖昧で、かつ採用側のハードルが高く長期間オープンになっている)。  
-  
+    
 では、SLの数と多いと良くないのだろうか？次のデータでそれを検証する。  
   
 ___SL and Offer___  
 SLが70 - 90くらいの場合最もOfferの数が多く、それ以降はSLが多くてもOfferが増えるとは言えない。  
 サンプル数が少ないため断定は出ないが、SLが90あたりを超えるようであれば、候補者をSLに集めた所でOfferは中々出ずあまり効率は良くない可能性がある。  
-  
+<img src="https://github.com/TS-0910/Tableau/blob/main/BI%2CIV%2COffer/SL%20and%20Offer.png" width="640px">
+    
 ___Client and Average BI___  
 付き合いの深い代表5Client毎の平均BIの数を比較。左から順にBIの数が多く、候補者からの人気も高い企業と言える。  
-  
+<img src="https://github.com/TS-0910/Tableau/blob/main/BI%2CIV%2COffer/Client%20and%20Average%20BI.png" width="640px">  
+    
 ___Client and BI - IV %___  
 BI(Clientへの紹介)の後にIVが入る確率を集計。左から順にIVが入りやすい企業。  
+<img src="https://github.com/TS-0910/Tableau/blob/main/BI%2CIV%2COffer/Client%20and%20BI%20-%20IV%20%25.png" width="640px">  
+  
   
 IVが入りやすい理由として下記が挙げられる。  
-・企業側が積極的に採用をしている  
-・ポジションで求められている候補者を的確に紹介出来ている  
-・企業側があまり他に人材紹介を使っていない = エクスクルーシビティが高い  
-・Clientとの関係性が強く、信頼してもらえている(Ex. 「○○さんの紹介なら大丈夫だろう」)  
+- 企業側が積極的に採用をしている  
+- ポジションで求められている候補者を的確に紹介出来ている  
+- 企業側があまり他に人材紹介を使っていない = エクスクルーシビティが高い  
+- Clientとの関係性が強く、信頼してもらえている(Ex. 「○○さんの紹介なら大丈夫だろう」)  
   
 ___Client and IV - Offer %___  
 (1st)IVの数に対してOfferが出る確率。左から順にOfferが出やすい企業と言える。  
+<img src="https://github.com/TS-0910/Tableau/blob/main/BI%2CIV%2COffer/Client%20and%20IV%20-%20Offer%20%25%20.png" width="640px">  
+  
   
 Offerが出やすい理由としては上記のClient and BI - IV %と同じ。  
   
-●まとめ  
-・IRが入り過ぎるのも良くない。その場合は他のポジションのソーシングにフォーカスしてもいい。  
-・SLが多すぎるのも良くない。多すぎるとかけた時間に対してのリターンが小さくなる可能性がある。  
-・Client Mは最も優良顧客。M2はその逆。  
+#### まとめ  
+- IRが入り過ぎるのも良くない。その場合は他のポジションのソーシングにフォーカスしてもいい。  
+- SLが多すぎるのも良くない。多すぎるとかけた時間に対してのリターンが小さくなる可能性がある。  
+- Client Mは最も優良顧客。M2はその逆。  
