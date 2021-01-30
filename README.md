@@ -38,19 +38,18 @@
 ## ③ダッシュボードの解説
 ### 1."Placements"  
 #### 全体の解説  
-![Placements](https://github.com/TS-0910/Tableau/blob/main/Placements/Placements%20Stats_26.1.2021.png)  
 これまで自分がPlacementしてきた候補者のデータを集計  
-
+![Placements](https://github.com/TS-0910/Tableau/blob/main/Placements/Placements%20Stats_26.1.2021.png)  
     
 #### 個々のデータ  
 ##### Sourced By  
-<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Sourced%20By.png" width="640px">
 自分かチームメンバーがソースした候補者が約87%を占める  
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Sourced%20By.png" width="640px">
   
   
 ##### Background  
-<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Background.png" width="640px">
 Internal IT出身の候補者が過半数を占め、その後Vendor、Consultantと続く  
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Background.png" width="640px">
   
     
 ・Nationality  
