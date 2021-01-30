@@ -2,7 +2,7 @@
 
 現職の人材紹介業における自分の実績の可視化と考察です。
 
-"Placement"と"BI,IV,Offer"の二種類があります。
+"Placements"と"BI,IV,Offer"の二種類があります。
 
 ### Placements
 ![Placements](https://github.com/TS-0910/Tableau/blob/main/Placements/Placements%20Stats_26.1.2021.png)
@@ -11,13 +11,13 @@
 ![BI,IV,Offer](https://github.com/TS-0910/Tableau/blob/main/BI%2CIV%2COffer/BI%2C%20IV%2C%20Offer_29.1.2021.png)
 
 ## ①用語の解説
-_"Placement Stats"の用語_
+#### "Placements"の用語_
 - Placement…企業に候補者を紹介→内定→実際に転職という一連の流れのサポート  
 - Internal IT…いわゆる事業会社と	言われる企業の社内情報システム部  
 - Consulting…BIg4等で知られるコンサル企業  
 - Vendor…事業会社からのアウトソース先としてITサービスを提供する企業  
   
-_"BI, IV, Offer"の用語_  
+#### "BI, IV, Offer"の用語_  
 - ポジション…Clientから依頼のあった求人  
 - IR…"Interview Request"。特定のポジションに対して面接の依頼が入った数  
 - IV…"Interview" = 面接。今回は、IV = 1st interviewとして集計。  
@@ -36,15 +36,14 @@ _"BI, IV, Offer"の用語_
 自分は主に外資系企業のInternal ITポジションを担当。  
   
 ## ③ダッシュボードの解説
-_1."Placements Stats"_  
-# 全体の解説  
+#### 1."Placements Stats"  
+##### 全体の解説  
 これまで自分がPlacementしてきた候補者のデータを集計  
 ![Placements](https://github.com/TS-0910/Tableau/blob/main/Placements/Placements%20Stats_26.1.2021.png)  
   
-# 個々の考察  
+##### 個々の考察  
 - Sourced By  
-![Sourced By](https://github.com/TS-0910/Tableau/blob/main/Placements/Sourced%20By.png)  
-<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Sourced%20By.png" width="320px">
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Sourced%20By.png" width="500px">
 自分かチームメンバーがソースした候補者が約87%を占める  
   
 ・Background  
