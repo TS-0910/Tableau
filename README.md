@@ -42,16 +42,17 @@
 これまで自分がPlacementしてきた候補者のデータを集計  
 
     
-#### 個々の考察  
+#### 個々のデータ  
 ##### Sourced By  
 <img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Sourced%20By.png" width="640px">  
 自分かチームメンバーがソースした候補者が約87%を占める  
   
   
-・Background  
-![Background](https://github.com/TS-0910/Tableau/blob/main/Placements/Background.png)  
+##### Background  
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Background.png" width="640px">  
 Internal IT出身の候補者が過半数を占め、その後Vendor、Consultantと続く  
   
+    
 ・Nationality  
 ![Nationality](https://github.com/TS-0910/Tableau/blob/main/Placements/Nationality.png)  
 過半数は外国人候補者  
@@ -80,7 +81,7 @@ Internal IT出身の方が年齢が高くても内定が出やすい。逆にVen
 ●全体の解説  
 それぞれのポジション毎のBI,IV,Offerの関連性やClient毎の集計  
   
-●個々の考察  
+#### 個々のデータ  
 ・IR and IV - Offer %  
 赤線は傾向線。  
 IRが多いほどIV - Offerの確率は下がる傾向にある。  
