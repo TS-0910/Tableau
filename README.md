@@ -44,12 +44,12 @@
     
 #### 個々のデータ  
 ##### Sourced By  
-<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Sourced%20By.png" width="640px">  
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Sourced%20By.png" width="640px">
 自分かチームメンバーがソースした候補者が約87%を占める  
   
   
 ##### Background  
-<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Background.png" width="640px">  
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Background.png" width="640px">
 Internal IT出身の候補者が過半数を占め、その後Vendor、Consultantと続く  
   
     
