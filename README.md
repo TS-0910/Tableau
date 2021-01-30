@@ -42,11 +42,10 @@
 ![Placements](https://github.com/TS-0910/Tableau/blob/main/Placements/Placements%20Stats_26.1.2021.png)  
     
 #### 個々のデータ  
-##### Sourced By  
+___Sourced By___  
 自分かチームメンバーがソースした候補者が約87%を占める  
 <img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Sourced%20By.png" width="640px">
-  
-  
+    
 ##### Background  
 Internal IT出身の候補者が過半数を占め、その後Vendor、Consultantと続く  
 <img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Background.png" width="640px">
