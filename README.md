@@ -46,29 +46,29 @@ ___Sourced By___
 自分かチームメンバーがソースした候補者が約87%を占める  
 <img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Sourced%20By.png" width="640px">
     
-##### Background  
+___Background___  
 Internal IT出身の候補者が過半数を占め、その後Vendor、Consultantと続く  
 <img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Background.png" width="640px">
   
     
-・Nationality  
-![Nationality](https://github.com/TS-0910/Tableau/blob/main/Placements/Nationality.png)  
+___Nationality___  
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Nationality.png" width="640px">
 過半数は外国人候補者  
   
-・Billingual  
-![Billingual](https://github.com/TS-0910/Tableau/blob/main/Placements/Bilingual.png)  
+___Billingual___  
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Bilingual.png" width="640px">
 90%は日本語・英語のバイリンガル候補者  
   
-・Average age by background  
-![Average age by background](https://github.com/TS-0910/Tableau/blob/main/Placements/Average%20age%20by%20background.png)  
+___Average age by background___  
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Average%20age%20by%20background.png" width="640px">
 Internal IT出身の方が年齢が高くても内定が出やすい。逆にVendor出身の場合は年齢が若めの人が好まれる。  
   
-・Average age by nationality  
-![Average age by nationality](https://github.com/TS-0910/Tableau/blob/main/Placements/Agerage%20age%20by%20nationality.png)  
+___Average age by nationality___    
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Agerage%20age%20by%20nationality.png" width="640px">
 日本人の方が年齢が高くても内定が出やすい。逆に外国人の場合は年齢が若めの人が好まれる。  
   
-・Age and Salary  
-![Age and Salary](https://github.com/TS-0910/Tableau/blob/main/Placements/Age%20and%20Salary.png)  
+___Age and Salary___    
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Age%20and%20Salary.png" width="640px">
 赤線は傾向線。個人差はあるものの年齢と年収はおおむね相関関係にある事が分かる。  
   
 ●まとめ  
@@ -80,13 +80,13 @@ Internal IT出身の方が年齢が高くても内定が出やすい。逆にVen
 それぞれのポジション毎のBI,IV,Offerの関連性やClient毎の集計  
   
 #### 個々のデータ  
-・IR and IV - Offer %  
+___IR and IV - Offer %___  
 赤線は傾向線。  
 IRが多いほどIV - Offerの確率は下がる傾向にある。  
 これは、候補者が多いほど限られた採用枠へのOffer確率が下がるためと考えられる。  
 なので、一つのポジションに候補者を紹介し過ぎるのも良くないと言える。  
   
-・SL and SL - BI %  
+___SL and SL - BI %___  
 赤線は傾向線。  
 SLが増える程BIがもらえる率が下がる傾向にある。  
   
@@ -99,14 +99,14 @@ SLが多いというのには下記のような理由が考えられる
   
 では、SLの数と多いと良くないのだろうか？次のデータでそれを検証する。  
   
-・SL and Offer  
+___SL and Offer___  
 SLが70 - 90くらいの場合最もOfferの数が多く、それ以降はSLが多くてもOfferが増えるとは言えない。  
 サンプル数が少ないため断定は出ないが、SLが90あたりを超えるようであれば、候補者をSLに集めた所でOfferは中々出ずあまり効率は良くない可能性がある。  
   
-・Client and Average BI  
+___Client and Average BI___  
 付き合いの深い代表5Client毎の平均BIの数を比較。左から順にBIの数が多く、候補者からの人気も高い企業と言える。  
   
-・Client and BI - IV %  
+___Client and BI - IV %___  
 BI(Clientへの紹介)の後にIVが入る確率を集計。左から順にIVが入りやすい企業。  
   
 IVが入りやすい理由として下記が挙げられる。  
@@ -115,7 +115,7 @@ IVが入りやすい理由として下記が挙げられる。
 ・企業側があまり他に人材紹介を使っていない = エクスクルーシビティが高い  
 ・Clientとの関係性が強く、信頼してもらえている(Ex. 「○○さんの紹介なら大丈夫だろう」)  
   
-・Client and IV - Offer %  
+___Client and IV - Offer %___  
 (1st)IVの数に対してOfferが出る確率。左から順にOfferが出やすい企業と言える。  
   
 Offerが出やすい理由としては上記のClient and BI - IV %と同じ。  
