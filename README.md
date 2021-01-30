@@ -11,20 +11,20 @@
 ![BI,IV,Offer](https://github.com/TS-0910/Tableau/blob/main/BI%2CIV%2COffer/BI%2C%20IV%2C%20Offer_29.1.2021.png)
 
 ## ①用語の解説
----"Placement Stats"の用語---  
-Placement…企業に候補者を紹介→内定→実際に転職という一連の流れのサポート  
-Internal IT…いわゆる事業会社と言われる企業の社内情報システム部  
-Consulting…BIg4等で知られるコンサル企業  
-Vendor…事業会社からのアウトソース先としてITサービスを提供する企業  
+_"Placement Stats"の用語_
+- Placement…企業に候補者を紹介→内定→実際に転職という一連の流れのサポート  
+- Internal IT…いわゆる事業会社と	言われる企業の社内情報システム部  
+- Consulting…BIg4等で知られるコンサル企業  
+- Vendor…事業会社からのアウトソース先としてITサービスを提供する企業  
   
-<u>"BI, IV, Offer"の用語</u>  
-ポジション…Clientから依頼のあった求人  
-IR…"Interview Request"。特定のポジションに対して面接の依頼が入った数  
-IV…"Interview" = 面接。今回は、IV = 1st interviewとして集計。  
-Offer…Job Offer = 内定  
-SL…"Short List"。ポジションに対して、何人の候補者に声をかけたか(=何人をShort Listに入れたか)  
-BI…"Buy In"。そのポジションに対して、申し込み(= Buy In)のあった数  
-Client…求人を出している企業。そのポジションに対しての候補者のソーシングを依頼している企業  
+_"BI, IV, Offer"の用語_  
+- ポジション…Clientから依頼のあった求人  
+- IR…"Interview Request"。特定のポジションに対して面接の依頼が入った数  
+- IV…"Interview" = 面接。今回は、IV = 1st interviewとして集計。  
+- Offer…Job Offer = 内定  
+- SL…"Short List"。ポジションに対して、何人の候補者に声をかけたか(=何人をShort Listに入れたか)  
+- BI…"Buy In"。そのポジションに対して、申し込み(= Buy In)のあった数  
+- Client…求人を出している企業。そのポジションに対しての候補者のソーシングを依頼している企業  
 
 ## ②人材紹介・担当分野の流れについて
 1.Clientから求人に合う候補者を探してほしいという依頼が入る  
@@ -36,14 +36,15 @@ Client…求人を出している企業。そのポジションに対しての�
 自分は主に外資系企業のInternal ITポジションを担当。  
   
 ## ③ダッシュボードの解説
-<u>1."Placements Stats"</u>  
-●全体の解説  
+_1."Placements Stats"_  
+# 全体の解説  
 これまで自分がPlacementしてきた候補者のデータを集計  
 ![Placements](https://github.com/TS-0910/Tableau/blob/main/Placements/Placements%20Stats_26.1.2021.png)  
   
-●個々の考察  
-・Sourced By  
+# 個々の考察  
+- Sourced By  
 ![Sourced By](https://github.com/TS-0910/Tableau/blob/main/Placements/Sourced%20By.png)  
+<img src="https://github.com/TS-0910/Tableau/blob/main/Placements/Sourced%20By.png" width="320px">
 自分かチームメンバーがソースした候補者が約87%を占める  
   
 ・Background  
