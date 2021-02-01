@@ -91,7 +91,7 @@ IRが多いほどIV - Offerの確率は下がる傾向にある。
   
 ___SL and SL - BI %___  
 赤線は傾向線。  
-SLの数とBIの数は負の相関関係にある事が分かる。
+SLの数とBIの数は負の相関関係にある事が分かる。  
 そのため、SLが増える程BIがもらえる率が下がる可能性があるといえる。  
 <img src="https://github.com/TS-0910/Tableau/blob/main/BI%2CIV%2COffer/SL%20and%20SL%20-%20BI%20%25.png" width="640px">
     
